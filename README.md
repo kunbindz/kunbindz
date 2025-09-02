@@ -1,17 +1,20 @@
-# 🐅 Trần Xuân Lộc 
+# 🇻🇳 Trần Xuân Lộc 
 
 **`Frontend Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Welcome to my world of creative domain, I am a Frontend Web Developer and Creative Designer doing all things creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.
 
 ---
+### 🧰 Experience
+
+I have over 5 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting reusable email components, building mobile-responsive campaigns, and designing impactful digital ads for content creation. My contributions as an Open Source Contributor involve ensuring accessibility and providing valuable resources to support the initiatives of veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+
+#
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+[<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
